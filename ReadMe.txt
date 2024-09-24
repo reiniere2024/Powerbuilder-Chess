@@ -11,7 +11,7 @@ the program then to the necessary Powerbuilder version.
 
 Don't expect to much about the Chess capabilities of the black AI player. The program
 is more a demonstation about the capabilities of the Powerbuilder 6.5 program.
-I have included the full source code for people who also want to do some coding.
+
 
 Good luck,
 Reiniere.
